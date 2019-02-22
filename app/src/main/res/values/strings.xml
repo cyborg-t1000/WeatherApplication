@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Weather Application</string>
     <string name="app_title">Погода</string>
+    <string name="city_name">New York</string>
+    <string name="night">Night</string>
+    <string name="morning">Morning</string>
+    <string name="day">Day</string>
+    <string name="evening">Evening</string>
 </resources>
